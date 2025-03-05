@@ -20,7 +20,7 @@ document.getElementById("revealButton").addEventListener("click", () => {
   textElement.innerHTML = message.replace(/\n/g, "<br>");
   textElement.style.opacity = 1;
 
-  // Exibe a pergunta após a mensagem ser revelada
+  // Exibe a pergunta após a mensagem ser revelada...
   document.getElementById("question").classList.remove("hidden");
 });
 

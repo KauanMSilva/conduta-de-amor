@@ -32,3 +32,5 @@ document.getElementById("noButton").addEventListener("click", () => {
 document.getElementById("yesButton").addEventListener("click", () => {
   alert("Você aceitou! ❤️");
 });
+
+// torça para ela aceitar
